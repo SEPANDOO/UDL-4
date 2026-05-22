@@ -1,0 +1,31 @@
+# anjoman-ashbah-s02-e10.480.mp4
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `anjoman-ashbah-s02-e10.480.mp4.aria2` |
+| **Size** | 0 MB |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Link
+
+| File | Link |
+|------|------|
+| `anjoman-ashbah-s02-e10.480.mp4.zip` | [Download](https://github.com/SEPANDOO/UDL-4/raw/main/downloads/anjoman-ashbah-s02-e10.480.mp4/anjoman-ashbah-s02-e10.480.mp4.zip) |
+
+---
+
+## How to Extract
+
+1. **Open** `anjoman-ashbah-s02-e10.480.mp4.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+2. **Extract** the file
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
